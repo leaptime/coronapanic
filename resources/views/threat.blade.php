@@ -81,3 +81,13 @@ Important disclaimer, this is an ironic web site. The only purpose is to stigmat
 	</div>
 </body>
 </html>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158085368-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-158085368-1');
+</script>
