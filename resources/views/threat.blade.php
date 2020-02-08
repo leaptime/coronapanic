@@ -67,7 +67,7 @@
 
 		<div class="chance">
 			<h1>
-				{{ $threat }} killed last year  <b><i><u>{{ $number }}</u></i></b>people so you have <b><i><u>{{ $ratio }}X</u></i></b> the chance of being killed by {{ $threat }} instead of Coronavirus
+				{{ $threat }} killed last year  <b><i><u>{{ $number }}</u></i></b> people so you have <b><i><u>{{ $ratio }}X</u></i></b> the chance of being killed by {{ $threat }} instead of Coronavirus
 			</h1>
 			<h1>Yes but what about {{ $next }} ? <a href="/?threat={{ $next }}">Let's find out</a></h1>
 		</div>
