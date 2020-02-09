@@ -71,9 +71,10 @@
       <div class="row banner">
         <div class="col-12">
         	<div class="footertext">
-        			Important disclaimer, this is an ironic web site. The only purpose is to stigmatize the sensationalization and panic spreading of the newspaper and media in general, who are actually spreading racism all over the earth. If you want to support the initiative to relieve those hitten by the virus, please donate now: <br/><br/>
-					Support corona virus research here <a href="https://www.globalgiving.org/projects/coronavirus-relief-fund/">https://www.globalgiving.org/projects/coronavirus-relief-fund/</a><br/><br/>
-					<a href="https://www.linkedin.com/in/giorgiopallocca/">About the Author</a>
+        			Important disclaimer, this is an ironic web site. The only purpose is to stigmatize the sensationalization and panic spreading of the newspaper and media in general, who are actually spreading racism all over the earth. Consider visiting the following links.<br/>
+        			<a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters">Get informed about Coronavirus</a><br/>
+					<a href="https://www.globalgiving.org/projects/coronavirus-relief-fund/">Support those hitten by the virus</a><br/><br/>
+					<a href="https://medium.com/@giorgiopallocca">About the Author</a>
 			</div>
         </div>
     </div>
