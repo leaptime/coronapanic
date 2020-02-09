@@ -44,7 +44,7 @@ class CoronaController extends Controller
             'Hippos' =>  '500- 500 -Poisonings',
             'Poisonings' =>  '72371- 126,391 -Heat',
             'Heat' =>  '53350- 53,350 -Terrorism',
-            'Terrorism' =>  '26445- 26,445 -Fire',
+            'Terrorism' =>  '26445- 26,445 -Natural disasters',
             'Natural disasters' =>  '26445- 26,445 -Cardiovascular diseases',
         );
  
