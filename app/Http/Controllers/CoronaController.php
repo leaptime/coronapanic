@@ -42,8 +42,8 @@ class CoronaController extends Controller
             'Hepatitis' =>  '126391- 126,391 -Fire',
             'Fire' =>  '120632- 120,632 -Hippos',
             'Hippos' =>  '500- 500 -Poisonings',
-            'Poisonings' =>  '72371- 126,391 -Heat (hot and cold exposure) ',
-            'Heat (hot and cold exposure) ' =>  '53350- 53,350 -Terrorism',
+            'Poisonings' =>  '72371- 126,391 -Heat',
+            'Heat' =>  '53350- 53,350 -Terrorism',
             'Terrorism' =>  '26445- 26,445 -Fire',
             'Natural disasters' =>  '26445- 26,445 -Cardiovascular diseases',
         );
